@@ -9,11 +9,11 @@ function App() {
         <p>Noor Jasmine cute</p>
         <a
           className='App-link'
-          href='https://reactjs.org'
+          href='https://tse4.mm.bing.net/th?id=OIP.YceZVzKSMBHMxPksdhn8kgHaEF&pid=Api&P=0&h=180'
           target='_blank'
           rel='noopener noreferrer'
         >
-          Learn React
+          wuv u
         </a>
       </header>
     </div>
